@@ -5,13 +5,18 @@ Convolutional Neural Networks specialized for applications in image & video reco
 
 There are three types of layers in Convolutional Neural Networks:
 1) Convolutional Layer: This layer will extract features by sliding filters/kernels over the input image for creating feature maps
+   ![cnn](https://github.com/PranavEswr/ANN-v-s-CNN-/assets/91025454/f3b3f3f8-0536-4ec2-87a8-176a2ab8dc8d)
 
-2) Pooling Layer: The pooling layer is used to reduce the dimensionality of the feature map. There will be multiple activation & pooling layers inside the hidden layer of the CNN.
+
+3) Pooling Layer: The pooling layer is used to reduce the dimensionality of the feature map. There will be multiple activation & pooling layers inside the hidden layer of the CNN.
 
    a) Average pooling: The filter calculates the receptive field’s average value when it scans the input.
 
-   b) Max pooling: The filter sends the pixel with the maximum value to populate the output array. This approach is more common than average pooling. 
+   b) Max pooling: The filter sends the pixel with the maximum value to populate the output array. This approach is more common than average pooling.
 
-4) Fully-Connected layer: The input to the fully connected layer is the output from the final Pooling or Convolutional Layer, which is flattened and then fed into the fully connected layer.
+   ![pooling](https://github.com/PranavEswr/ANN-v-s-CNN-/assets/91025454/bca79d18-5a1b-48e0-b945-279401ea4857)
+
+
+5) Fully-Connected layer: The input to the fully connected layer is the output from the final Pooling or Convolutional Layer, which is flattened and then fed into the fully connected layer.
 
 (Flatten: This will flatten the feature map or convert 2-dimensional feature maps into a 1-dimensional vector)
