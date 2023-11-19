@@ -14,7 +14,7 @@ There are three types of layers in Convolutional Neural Networks:
 
    b) Max pooling: The filter sends the pixel with the maximum value to populate the output array. This approach is more common than average pooling.
 
-   ![pooling](https://github.com/PranavEswr/ANN-v-s-CNN-/assets/91025454/bca79d18-5a1b-48e0-b945-279401ea4857)
+   ![MaxpoolSample2](https://github.com/PranavEswr/ANN-v-s-CNN-/assets/91025454/77ca6d06-ca09-48f4-8e21-b04d299eb4ea)
 
 
 5) Fully-Connected layer: The input to the fully connected layer is the output from the final Pooling or Convolutional Layer, which is flattened and then fed into the fully connected layer.
