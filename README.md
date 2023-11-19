@@ -1,5 +1,8 @@
 A Convolutional Neural Network (CNN) is a type of deep learning algorithm specifically designed for image processing and recognition tasks. Compared to other classification models, CNNs require less preprocessing as they can automatically learn features from input by filters. 
 
+![1-4](https://github.com/PranavEswr/ANN-v-s-CNN-/assets/91025454/f8446de2-3be7-4fcf-8b98-a4731aff84e2)
+
+
 Architecture
 Convolutional Neural Networks specialized for applications in image & video recognition. CNN is mainly used in image analysis tasks like Image recognition, Object detection and segmentation.
 
