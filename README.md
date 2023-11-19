@@ -23,3 +23,5 @@ There are three types of layers in Convolutional Neural Networks:
 5) Fully-Connected layer: The input to the fully connected layer is the output from the final Pooling or Convolutional Layer, which is flattened and then fed into the fully connected layer.
 
 (Flatten: This will flatten the feature map or convert 2-dimensional feature maps into a 1-dimensional vector)
+
+***** Given code to compare the performance of a CNN with ANN *****
