@@ -1,4 +1,3 @@
-Convolutional Neural Network(CNN) v/s Artificial Neural Network(ANN)?
 A Convolutional Neural Network (CNN) is a type of deep learning algorithm specifically designed for image processing and recognition tasks. Compared to other classification models, CNNs require less preprocessing as they can automatically learn features from input by filters. 
 
 Architecture
